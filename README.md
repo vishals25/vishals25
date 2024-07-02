@@ -25,7 +25,7 @@
 
 ---
 
-<div align="center" style="background-color: black; color: white; padding: 20px; border-radius: 10px; font-size:17px;">
+<div align="center" style="background-color: black; color: white; padding: 20px; border-radius: 10px; font-size:20px;">
   <p>"Life is not about finding yourself. Life is about creating yourself." – George Bernard Shaw</p>
 </div>
 
